@@ -3957,8 +3957,8 @@ input, select, textarea {
 
 		.go-top {
 			display: flex;  /* 使用flex排版方式 */
-			width: 80px;    /* 設定按鈕寬度 */
-			height: 80px;   /* 設定按鈕高度 */
+			width: 50px;    /* 設定按鈕寬度 */
+			height: 50px;   /* 設定按鈕高度 */
 			background-color: #87c5a4;  /* 設定按鈕顏色 */
 			
 			position: fixed;  /* 使用fixed定位，固定在螢幕上不會被捲動 */
